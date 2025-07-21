@@ -43,9 +43,6 @@ Here are the **core tools & tech** I ❤️ working with:
   <a href="https://www.behance.net/rezzfx" target="_blank">
     <img src="https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
   </a>
-  <a href="https://dribbble.com/rezzasf" target="_blank">
-    <img src="https://img.shields.io/badge/-Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/>
-  </a>
   <a href="https://rakshityadav-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
@@ -72,11 +69,5 @@ Here are the **core tools & tech** I ❤️ working with:
 ---
 
 
----
 
-<p align="center">
-✨ _“Code boldly, design beautifully, and have fun along the way!”_ ✨  
-</p>
-
----
 
