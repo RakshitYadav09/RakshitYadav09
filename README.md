@@ -1,53 +1,86 @@
-<h2 align="left">Hey👋! I'm Rakshit Yadav and I'm an Engineering Student in SRM University, from Gurgaon and I'm currently working on learning Machine Learning along with a proficiency in Figma<3</h2>
+<h1 align="center">Hey 👋 I'm Rakshit Yadav</h1>
 
-###
+<p align="center">
+🚀 Engineering Student @ SRM | 🤖 ML Enthusiast | 🎨 Creative Technologist | ☁️ Cloud Explorer
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RakshitYadav09&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=RakshitYadav09&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
+<p align="center">
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/-MERN%20Stack-3C873A?style=flat-square&logo=mongodb&logoColor=white"/>
+</p>
 
-###
+---
 
-###
+## 🌟 About Me
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="30" alt="behance logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-</div>
+🎓 I’m an Engineering student at **SRM University, Chennai**, specializing in Computer Science (Software Engineering).  
+💡 I enjoy building scalable web apps, experimenting with AI & cloud, and designing clean UIs on Figma.  
+🛠️ Experienced in upgrading systems, boosting performance & optimizing user experience.  
+🎨 On weekends, you’ll find me designing creative interfaces on Behance or experimenting with Power BI dashboards.  
+💬 Fun fact: I can talk cloud architecture and kerning in the same sentence.  
 
-###
+---
 
-<div align="left">
+## 🛠️ Skills & Tech Stack
+
+- **Languages:** Python, C++, JavaScript, TypeScript, SQL
+- **Frameworks & Libraries:** PyTorch, TensorFlow, Scikit-learn, Next.js, Angular, Django, MERN Stack
+- **Tools & Platforms:** Docker, Kubernetes, AWS (EC2, S3, Lambda), REST APIs, Git
+- **Creative Tools:** Figma, Behance, Power BI
+- **Domains:** AI/ML Development, Web Development, Cloud Computing, Data Analytics
+
+---
+
+## 🚀 Featured Projects
+
+### 📄 [LoanSense](https://github.com/RakshitYadav09/Standard-Chartered-AI-Manager)  
+AI-powered platform that automates loan document processing (Python, PyTesseract, React).  
+→ 92.5% OCR accuracy & cut application processing time by 65%.
+
+### 📋 [LifeStock](https://life-stock-planner.vercel.app/)  
+Productivity PWA with real-time collaboration & task management (MERN, WebSockets).  
+→ Reduced bounce rate by 30% & supported 50+ active users.
+
+---
+
+## 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RakshitYadav09&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=RakshitYadav09&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakshitYadav09&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rakshityadavv/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
   <a href="https://www.instagram.com/rakshityadavv/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://discordapp.com/users/bettercallrezz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/rakshit-yadav-03b5011aa/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <a href="https://www.behance.net/rezzfx" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
+    <img src="https://img.shields.io/badge/-Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"/>
   </a>
   <a href="https://dribbble.com/rezzasf" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="dribbble logo"  />
+    <img src="https://img.shields.io/badge/-Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/>
   </a>
-</div>
+  <a href="https://rakshityadav-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
-###
+---
 
+✨ _“Blending creativity with code, and making the web a smarter, more beautiful place.”_ ✨
